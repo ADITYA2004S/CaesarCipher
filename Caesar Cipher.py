@@ -44,4 +44,4 @@ if direction == "encode":
 elif direction == "decode":
     decrypt(Cipher_text=text, Shift_amount=shift)
 else:
-    print("error")
+    print("Error")
